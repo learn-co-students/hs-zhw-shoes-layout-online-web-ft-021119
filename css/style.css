@@ -315,6 +315,19 @@ footer a {
 }
 
 .col-3 {
-  width: 100;
+  width: 100%;
 }
+
+[class*"col-"]{
+  margin: 2%;
+}
+
+.section-name {
+  padding: 15px 0px;
+}
+
+.first {
+margin: 0% 2% 2% 0%;
+}
+
 /* code examples copyright Jonathan Grover 2012 */
